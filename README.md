@@ -88,6 +88,7 @@ I would also like to better learn JavaScript syntax and basic functions.  I beli
 - [MDN Web Docs: Addition assignment (+=)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Addition_assignment)
 - [MDN Web Docs: EventTarget.addEventListener()](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
 - [MDN Web Docs: Window alert()](https://developer.mozilla.org/en-US/docs/Web/API/Window/alert)
+- [MDN Web Docs: Array.prototype.concat()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat)
 - [Stack Overflow: how to return to top of for loop in javascript](https://stackoverflow.com/questions/3927136/how-to-return-to-top-of-for-loop-in-javascript)
 - [Stack Overflow: Array inside a JavaScript Object?](https://stackoverflow.com/questions/1828924/array-inside-a-javascript-object)
 - [Stack Overflow: Cannot access 'variable_name' before initialization](https://stackoverflow.com/questions/56318460/cannot-access-variable-name-before-initialization)+
