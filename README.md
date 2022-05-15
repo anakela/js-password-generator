@@ -66,43 +66,32 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [js-password-generator](https://github.com/anakela/js-password-generator)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My Process
 
 ### Built With
 
-- Semantic HTML5 markup
+- Semantic HTML5 Markup
 - CSS
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- JavaScript
+- GitHub
 
 ### What I Learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I learned about how the `element.addEventListener()` works and how to assign it to an HTML element so that an action can trigger it rather than having the function just automatically happen when the page loads.  In this case:
 
-To see how you can add code snippets, see below:
+- I learned that `let generateBtn = document.querySelector("#generate")` assigned the variable `generateBtn` to the `#generate` ID in the HTML file, which is the "Generate Password" button.
+- Then, `generateBtn.addEventListener("click", writePassword)` assigned the click event to the Generate Password button, which would, when clicked, initialize the `writePassword()` function.
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-If you want more help with writing markdown, check out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+This project also pushed me to learn about nesting `if...else` statements and `for loops` inside of functions so that they work one after another to complete a function.
 
 ### Continued Development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+This particular assignment has shown me how much I have to learn when it comes to JavaScript.  I would like to apply what I've learned here and apply it to additional new projects.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+I would also like to better learn JavaScript syntax and basic functions.  I believe this will better prepare me for the additional challenges that I will face not only in bootcamp, but also in the workforce.
 
 ### Useful Resources
 
@@ -124,18 +113,10 @@ Use this section to outline areas that you want to continue focusing on in futur
 - [W3Schools: onclick Event](https://www.w3schools.com/jsref/event_onclick.asp)
 - [W3Schools: JavaScript Objects](https://www.w3schools.com/js/js_objects.asp)
 
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- GitHub - [Angela Soto](https://github.com/anakela)
+- LinkedIn - [@anakela](https://www.linkedin.com/in/anakela/)
 
 ## Acknowledgments
 
