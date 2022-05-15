@@ -79,6 +79,8 @@ I learned about how the `element.addEventListener()` works and how to assign it 
 
 This project also pushed me to learn about nesting `if...else` statements and `for loops` inside of functions so that they work one after another to complete a function.
 
+Lastly, I learned how to use Google Chrome's Console to view the functions in my code to better understand where errors might be occuring.  (The `console.log()` will always be one of my favorites!)
+
 ### Continued Development
 
 This particular assignment has shown me how much I have to learn when it comes to JavaScript.  I would like to apply what I've learned here and apply it to additional new projects.
@@ -120,4 +122,4 @@ I worked with several classmates and TAs to get the random password generator to
 - Ivy Chang
 - Michael Barrett
 
-Both Luigi and Scott were very patient with me and helped me better understand the JavaScript I was using and why.  Nolan, Ivy, and Michael were also very helpful by working with me and comparing notes to understand what was going on and 
+Both Luigi and Scott were very patient with me and helped me better understand the JavaScript I was using and why.  Nolan, Ivy, and Michael were also very helpful by working with me and comparing notes to understand the assignment and the functions it contained.
