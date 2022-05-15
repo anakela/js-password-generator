@@ -89,6 +89,8 @@ I would also like to better learn JavaScript syntax and basic functions.  I beli
 - [MDN Web Docs: EventTarget.addEventListener()](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
 - [MDN Web Docs: Window alert()](https://developer.mozilla.org/en-US/docs/Web/API/Window/alert)
 - [MDN Web Docs: Array.prototype.concat()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat)
+- [MDN Web Docs: isNaN()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isNaN)
+- [MDN Web Docs: JavaScript data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 - [Stack Overflow: how to return to top of for loop in javascript](https://stackoverflow.com/questions/3927136/how-to-return-to-top-of-for-loop-in-javascript)
 - [Stack Overflow: Array inside a JavaScript Object?](https://stackoverflow.com/questions/1828924/array-inside-a-javascript-object)
 - [Stack Overflow: Cannot access 'variable_name' before initialization](https://stackoverflow.com/questions/56318460/cannot-access-variable-name-before-initialization)+
@@ -103,6 +105,8 @@ I would also like to better learn JavaScript syntax and basic functions.  I beli
 - [W3Schools: JavaScript Functions](https://www.w3schools.com/js/js_functions.asp)
 - [W3Schools: onclick Event](https://www.w3schools.com/jsref/event_onclick.asp)
 - [W3Schools: JavaScript Objects](https://www.w3schools.com/js/js_objects.asp)
+- [W3Schools: JavaScript isNaN()](https://www.w3schools.com/jsref/jsref_isnan.asp)
+- [W3Schools: JavaScript Array concat()](https://www.w3schools.com/jsref/jsref_concat_array.asp)
 
 ## Author
 
