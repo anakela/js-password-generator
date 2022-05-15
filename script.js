@@ -20,7 +20,7 @@ function generatePassword() {
   const nums = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
   const special = ["#", "@", "$", "^", "!", "%", ")", "(", "+", "*", "=", "_", "~", "-", "&"];
 
-  // I've named the array that will comprise my random password "charSet."
+  // I've named the array that will be complied from my other arrays above and ultimately comprise my random password.
   let charSet = [];
 
   // This will set the generatePassword function to an empty string before it begins choosing characters to include.
@@ -38,6 +38,7 @@ function generatePassword() {
     if (passLc) {
       // Run a for loop through the lowercase array's index and push a character to the charSet array.
       for(let i = 0; i < lowercase.length; i++) {
+        // Pull characters from the lowercase array and push them to the charSet array.
         charSet.push(lowercase[i]);
       }
     }
@@ -47,6 +48,7 @@ function generatePassword() {
     if (passUc) {
       // Run a for loop through the upercase array's index and push a character to the charSet array.
       for(let i = 0; i < uppercase.length; i++) {
+        // Pull characters from the uppercase array and push them to the charSet array.
         charSet.push(uppercase[i]);
       }
     }
@@ -56,6 +58,7 @@ function generatePassword() {
     if (passNum) {
       // Run a for loop through the nums array's index and push a character to the charSet array.
       for(let i = 0; i < nums.length; i++) {
+        // Pull characters from the nums array and push them to the charSet array.
         charSet.push(nums[i]);
       }
     }
@@ -65,11 +68,12 @@ function generatePassword() {
     if (passSpec) {
       // Run a for loop through the special array's index and push a character to the charSet array.
       for(let i = 0; i < special.length; i++) {
+        // Pull characters from the special array and push them to the charSet array.
         charSet.push(special[i]);
       }
     }
 
-    // Set the password's length 
+    // Use the passLength value and use this to generate the random password.
     for (let i = 0; i < passLength; i++) {
       // Set the randomIndex constant to the getRandomInt function using the charSet's length.
       const randomIndex = getRandomInt(charSet.length);
@@ -81,12 +85,12 @@ function generatePassword() {
     prompt("Sorry, that entry is invalid. Please enter a value between 8 and 128.");
   }
   console.log(charSet);
-  // Return the new password
+  // Return the new password.
   return password;
 }
 
-// Have the getRandomInt function 
+// Have the getRandomInt function use the charSet length to pull array index items.
 function getRandomInt(max) {
-  // Multiply Math.random() by the max 
+  // Multiply Math.random(), which only gives values between 0 and 1, by the max charSet length to get the correct number of password characters.
   return Math.floor(Math.random() * max);
 }

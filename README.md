@@ -16,8 +16,6 @@
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The Challenge
@@ -108,6 +106,25 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful Resources
 
+- [MDN Web Docs: Math.random()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
+- [MDN Web Docs: Addition assignment (+=)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Addition_assignment)
+- [MDN Web Docs: EventTarget.addEventListener()](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
+- [MDN Web Docs: Window alert()](https://developer.mozilla.org/en-US/docs/Web/API/Window/alert)
+- [Stack Overflow: how to return to top of for loop in javascript](https://stackoverflow.com/questions/3927136/how-to-return-to-top-of-for-loop-in-javascript)
+- [Stack Overflow: Array inside a JavaScript Object?](https://stackoverflow.com/questions/1828924/array-inside-a-javascript-object)
+- [Stack Overflow: Cannot access 'variable_name' before initialization](https://stackoverflow.com/questions/56318460/cannot-access-variable-name-before-initialization)+
+- [Stack Overflow: Generate random password string with requirements in javascript](https://stackoverflow.com/questions/9719570/generate-random-password-string-with-requirements-in-javascript)
+- [OWASP: Password Special Characters](https://owasp.org/www-community/password-special-characters)
+- [W3Schools: HTML DOM Element addEventListener()](https://www.w3schools.com/jsref/met_element_addeventlistener.asp)
+- [W3Schools: JavaScript HTML DOM EventListener](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
+- [W3Schools: Window confirm()](https://www.w3schools.com/jsref/met_win_confirm.asp)
+- [W3Schools: Window prompt()](https://www.w3schools.com/jsref/met_win_prompt.asp)
+- [W3Schools: JavaScript if, else, and else if](https://www.w3schools.com/js/js_if_else.asp)
+- [W3Schools: JavaScript Functions](https://www.w3schools.com/js/js_functions.asp)
+- [W3Schools: onclick Event](https://www.w3schools.com/jsref/event_onclick.asp)
+- [W3Schools: JavaScript Objects](https://www.w3schools.com/js/js_objects.asp)
+
+
 - [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
@@ -122,6 +139,12 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+I worked with several classmates and TAs to get the random password generator to even be operational.  I'd like to acknowledge the following individuals:
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+- Luigi Campbell (TA)
+- Scott Nelson (TA)
+- Nolan Spence
+- Ivy Chang
+- Michael Barrett
+
+Both Luigi and Scott were very patient with me and helped me better understand the JavaScript I was using and why.  Nolan, Ivy, and Michael were also very helpful by working with me and comparing notes to understand what was going on and 
