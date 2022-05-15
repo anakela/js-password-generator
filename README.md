@@ -92,6 +92,7 @@ I would also like to better learn JavaScript syntax and basic functions.  I beli
 - [Stack Overflow: Array inside a JavaScript Object?](https://stackoverflow.com/questions/1828924/array-inside-a-javascript-object)
 - [Stack Overflow: Cannot access 'variable_name' before initialization](https://stackoverflow.com/questions/56318460/cannot-access-variable-name-before-initialization)+
 - [Stack Overflow: Generate random password string with requirements in javascript](https://stackoverflow.com/questions/9719570/generate-random-password-string-with-requirements-in-javascript)
+- [Stack Overflow: Pull from each array if true in JS?](https://stackoverflow.com/questions/72246191/pull-from-each-array-if-true-in-js) - I actually asked this question and was surprised at how quickly other users posted replies.
 - [OWASP: Password Special Characters](https://owasp.org/www-community/password-special-characters)
 - [W3Schools: HTML DOM Element addEventListener()](https://www.w3schools.com/jsref/met_element_addeventlistener.asp)
 - [W3Schools: JavaScript HTML DOM EventListener](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
